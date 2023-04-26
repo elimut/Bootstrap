@@ -12,3 +12,11 @@ La manière de faire du Bootstrap sera toujours avec container, row, col.
 De manière générale, ça utilise le grid.
 
 Depuis sa version 5, nous permet d'avoir accès à des thèmes et des icônes notamment via npm ou figma.
+
+Dans cet exercie, nous avons travaillé une navbar, un carousel, ainsi que des card.
+Nous avons appliqué du style à ces card, afin qu'elles soient responsive.
+
+Ci-dessous des captures d'écran de l'adaptation du carousel:
+
+![colonnes et BG](img/bg_col.png)
+![margin carousel](img/margin_auto_carrousel.png)
